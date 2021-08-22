@@ -57,6 +57,8 @@ With Microservices, focus is shifting to getting started with developing web app
 - Provide a range of non-functional features that are common to large classes of projects (e.g. embedded servers, security, metrics, health checks, externalized configuration).
 - Absolutely no code generation and no requirement for XML configuration.
 
+learning git is fun
+
 ### Step List
 - Step 01: Setup and Launch Spring Boot Application with Maven and Eclipse
 - Step 02: Creating your first RestController
@@ -114,3 +116,5 @@ At in28Minutes, we ask ourselves one question everyday
 We are creating amazing learning experiences for learning Spring Boot with AWS, Azure, GCP, Docker, Kubernetes and Full Stack. 300,000 Learners rely on our expertise.  [Find out more.... ](https://github.com/in28minutes/learn#best-selling-courses)
 
 ![in28MinutesLearningRoadmap-July2019.png](https://github.com/in28minutes/in28Minutes-Course-Roadmap/raw/master/in28MinutesLearningRoadmap-July2019.png)
+
+learning git is fun
